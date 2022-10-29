@@ -5,7 +5,7 @@ excerpt: "Appointment es una máquina muy fácil que forma parte del Tier 1 de l
 date: 2022-10-29
 classes: wide
 header:
-  teaser: /assets/images/htb-writeup-appointment/appointment-logo.png
+  teaser: /assets/images/htb-writeup-appointment/appointment-logo.PNG
   teaser_home_page: true
   icon: /assets/images/hackthebox.webp
 categories:
@@ -16,7 +16,7 @@ tags:
   - sqli
 ---
 
-![](/assets/images/htb-writeup-appointment/appointment-logo.png)
+![](/assets/images/htb-writeup-appointment/appointment-logo.PNG)
 
 Appointment es una máquina muy fácil que forma parte del Tier 1 de las máquinas para principiantes del Starting Point de Hack The Box. Para poder completar esta máquina, tendremos que conectarnos a ella a través de la VPN, para posteriormente comprometer la máquina mediante técnicas de reconocimiento para abusar de las vulnerabilidades existentes. En este caso, estaremos tocando `SQL Injection`, una vulnerabilidad de seguridad web que permite a un atacante realizar consultas no deseadas a una base de datos.
 
